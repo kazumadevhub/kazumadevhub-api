@@ -1,0 +1,25 @@
+# Lingkungan virtual
+venv/
+.env/
+
+# File konfigurasi lingkungan (misalnya untuk variabel lingkungan)
+.env
+
+# File bytecode Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sistem file
+.DS_Store
+Thumbs.db
+
+# File konfigurasi IDE/editor
+.vscode/
+.idea/
+
+# Pengaturan dan data lokal
+*.sqlite3
+*.db
+*.log
